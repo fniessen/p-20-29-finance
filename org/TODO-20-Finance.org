@@ -1,0 +1,480 @@
+#+TITLE:     Finance
+#+AUTHOR:    Fabrice Niessen
+#+EMAIL:     (concat "fni" at-sign "pirilampo.be")
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE:  fr
+#+OPTIONS:   H:4 num:t toc:3
+
+#+FILETAGS:  :personal:finance:
+#+SETUPFILE: ~/org/theme-readtheorg.setup
+
+* Inbox
+
+** TODO Prendre RDV Induver
+
+** TODO Examiner les paiements et remboursements du cirque
+
+** TODO Écrire à la propriétaire Naamsesteenweg au sujet de la télécommande de parking
+
+Hieronder de contactgegevens van onze huisbaas Veerle Simons
+
++32 472 79 66 88
+
+** TODO Mettre en ligne des formations payantes
+
+- StudyTube suggéré par Wim
+- Udemy
+
+** TODO Fournir / vérifier les codes NACE en réponse à l'e-mail de Brigitte
+
+** TODO [#B] Séparer l'assurance hospitalisation Argenta
+
+** TODO [#B] Mettre en ordre l'assurance familiale
+
+** TODO Vérifier les données sur mypension pour les années MCit
+
+Si OK, je peux jeter tout mon dossier...
+
+** TODO Passer à FiscalTeam ?
+
+Pack Start à 300 EUR/mois
+Comprend l'appli avec scanning des factures papiers...
+
+https://www.fiscalteam.be/forfaits-mensuels/
+
+* Expenses
+
+** Subscriptions
+
+* Budgeting
+
+** Invest savings
+
+- Make sure you have an *emergency fund to cover 3 to 6 months without income*.
+- Keep 9% à 12% of salary for retirement?
+
+** Coût de la vie (salaire minimum, seuil de pauvreté)
+
+Alleenstaande heeft 1.073 EUR nodig om menswaardig te leven.
+
+|                                         |     EUR |
+|-----------------------------------------+---------|
+| Huur                                    |  442.15 |
+| Voeding                                 |  131.28 |
+| Energie, water                          |  117.14 |
+| Ontspanning                             |   87.85 |
+| Toekomstige uitgaven                    |   72.82 |
+| Internet, TV, telefoon                  |   52.07 |
+| Ziekenfonds, vakbond, bank, verzekering |   44.30 |
+| Kledij                                  |   37.57 |
+| Gezondheid, verzorging                  |   34.98 |
+| Vervoer                                 |   27.24 |
+| Andere                                  |   25.42 |
+|-----------------------------------------+---------|
+| Totaal                                  | 1072.82 |
+
+* Bank Statements
+
+* Tax Documents
+
+*** TODO Récupérer l'argent des impôts privés (2024)
+SCHEDULED: <2025-10-10 Fri>
+[2025-05-20 Tue]
+
+Ik ben klaar met je aangifte in de personenbelasting 2024
+Je zal 4.484 euro terugkrijgen.
+
+* Investments
+
+*** TODO Vendre les BitCoin de Binance.io (Fructify)
+
+https://www.binance.com/fr/my/wallet/account/main/withdrawal/crypto/BTC
+
+** Michaël
+
+https://www.mynearwallet.com/
+
+Ordre des mots
+
+* Insurance
+
+** Health Insurance
+
+*** DONE Assurances vie de Fabrice et Nele (from Gabriels Luc)            :mail:
+SCHEDULED: <2013-02-11 Mon>
+:LOGBOOK:
+ - State "TODO"        ->  "DONE"       [2013-02-12 Tue 13:16]
+:END:
+[2013-01-22 Tue 17:17]
+
+#+begin_verse
+Jij hebt 3 levensverzekeringscontracten:
+
+- 61 is een Leven Plus voor Pensioensparen waar je niet meer in stort en
+  waarvan de begunstigen in geval van overlijden je ouders zijn of als die
+  overleden zouden zijn je wettelijke erfgenamen; die begunstiging wordt best
+  aangepast naar de wettelijks formulering:
+
+      echtgeno(o)t(e) of wettelijk samenwonende partner van de
+      verzekeringsnemer, de kinderen van de verzekeringsnemer (in gelijke delen)
+      of de bloedverwanten t.e.m. de 2e graad (in gelijke delen) (Zie hieronder)
+
+- 05 is een Leven Plus voor Langetermijnsparen waar je niet meer in stort en
+  waarvan de begunstigde in geval overlijden je vader André Niessen; dat wordt
+  ook best aangepast zoals hierboven;
+
+- 95 is een Schuldsaldoverzekering waarvan de begunstiging correct is
+  (diegenen die de volle eigendom of het vruchtgebruik van je woning krijgen)
+
+Nele heeft 2 contracten:
+
+- 90 is een Leven Plus voor Pensioensparen waarin ze nog stort met de correcte
+  begunstiging
+
+- 96 is een Schuldsaldoverzekering met de correcte begunstiging
+
+Als alles duidelijk is, laat mij dan weten of ik voor de 61 en de 05 een
+wijziging van de begunstiging moet klaar maken. Ik zal die dan opsturen zodat
+je die kunt tekenen, of je kunt die op kantoor komen tekenen. Goed?
+#+end_verse
+
+** Car Insurance
+
+*** TODO [#A] Annuler l'omnium
+SCHEDULED: <2025-12-15 Mon> DEADLINE: <2026-02-15 Sun -2m>
+
+** Bike Insurance
+
+*** TODO Routine / Reconduire assurance SAFEbike omnium (vol + assistance)
+SCHEDULED: <2026-06-12 Fri +1y> DEADLINE: <2026-06-20 Sat +1y>
+
+https://safebike.be/fr
+
+L'assistance est-elle valable partout en Belgique, même à domicile ?
+
+* Tasks
+
+** 643- Travaux Michaël 2022
+
+| Date             |  Nbr | Commentaires                               |
+|------------------+------+--------------------------------------------|
+| [2022-05-13 Fri] |  1.0 | N/A                                        |
+| [2022-05-14 Sat] |  3.0 | Aide rangement                             |
+| [2022-05-15 Sun] |  3.0 | Aide rangement                             |
+| [2022-05-16 Mon] |  8.0 | Parquet maison de jardin                   |
+| [2022-05-17 Tue] |  3.0 | Suite et fin maison de jardin              |
+| [2022-05-21 Sat] |  3.0 | Entretien jardin / pavés maison de jardin  |
+| [2022-05-25 Wed] |  4.0 | Lampadaires escaliers. WC. Crochet couloir |
+| [2022-05-27 Fri] |  4.0 | Étagère Sarah, plante jardin               |
+| [2022-05-28 Sat] |  3.0 | Sans doute                                 |
+| [2022-06-22 Wed] |  1.5 | Poteau linge                               |
+| [2022-06-25 Sat] |  0.5 | Jardinage                                  |
+| [2022-06-27 Mon] |  1.5 | Cache câble HDMI                           |
+| [2022-06-28 Tue] |  3.5 | Fresco                                     |
+| [2022-07-11 Mon] |  6.0 | Plinthes, peintures, jardin                |
+| [2022-07-25 Mon] |  3.5 | Plinthes                                   |
+| [2022-07-26 Tue] |  4.5 | Arrondis plafond                           |
+| [2022-07-27 Wed] |  3.5 | Peinture portes                            |
+| [2022-07-28 Thu] |  1.5 | Peinture portes                            |
+| [2022-07-29 Fri] |  1.5 | Peinture portes                            |
+| [2022-07-30 Sat] |  1.0 | Peinture portes ?                          |
+| [2022-07-31 Sun] |  2.0 | Peinture portes                            |
+| [2022-08-01 Mon] |  3.5 | Peinture plinthes, placement               |
+| [2022-08-02 Tue] |  2.0 | Fin plinthes M                             |
+| [2022-08-03 Wed] |  1.0 | Install détecteur fumée                    |
+| [2022-08-04 Thu] |  1.5 | Trou + goulottes escalier + siège vélo     |
+| [2022-08-16 Tue] |  2.0 | Cadres, mauvaises herbes                   |
+| [2022-09-10 Sat] |  1.5 | Aide électricité escalier                  |
+| [2022-09-11 Sun] |  1.0 | Aide électricité escalier                  |
+| [2022-09-13 Tue] |  1.0 | Cave + jardin                              |
+| [2022-09-14 Wed] |  2.0 | Divers                                     |
+|------------------+------+--------------------------------------------|
+| TOTAL            | 78.0 | 1560. |
+#+TBLFM: @32$2=vsum(@-I..@I);%.1f::@32$3=$-1*20
+
+*Paiement de 1.060 EUR le 16/12/2022 = 1.560 EUR - 500 EUR acompte frais élec /
+eau Scorpios.*
+
+électricité: 12517 (heures pleines: 6447; creuses: 6069)
+eau: 599,3
+
+** Travaux Michaël 2023
+
+| [2023-03-19 Sun] | 3.0 | Make My Quarter                 |
+| [2023-04-24 Mon] | 1.5 | (temps non déclaré par Michaël) |
+| [2023-05-23 Tue] | 0.5 |                                 |
+
+** TODO Récupérer fichier Koen-Verbeiren_Memo_ECO_-_Oprichting_vennootschap.pdf dans backup DVD :FLAGGED:work:
+
+Se trouvait dans =fni-2016-04-22\4-Admin\Jobs=.
+
+Ne se trouve dans aucun backup online, ni sur DS412, ni sur DS216... Donc
+à reprendre d'un DVD...
+
+* Assets
+
+** DONE Accéder à mon compte http://www.rabodirect.be/ (from Rabobank)
+:LOGBOOK:
+- State "TODO"        ->  "DONE"       [2014-11-12 Wed 22:25]
+:END:
+[2014-09-15 Mon 09:41]
+
+#+begin_verse
+Titulaire des comptes: Fabrice Niessen
+
+- Numéro du compte à vue: 844-0073838-48
+- Numéro du compte d'épargne (1,00 % prime de base + 0,30 % prime de fidélité) :
+  844-0073839-49
+- Numéro d'utilisateur: 0003696912
+
+Nous avons constaté que vous n'avez plus eu aucun contact avec notre banque au
+cours des cinq dernières années. En outre, aucune opération n'a été effectuée
+sur un des comptes dont vous êtes titulaire ou cotitulaire chez Rabobank.be
+Conformément aux dispositions légales relatives aux comptes dormants, nous
+sommes, en tant que banque, tenus d'identifier et de contacter les titulaires de
+pareils comptes.
+Sans réaction de votre part, nous sommes légalement obligés de clôturer votre
+compte auprès de notre banque et de verser le solde restant à la Caisse des
+Dépôts et des Consignations. Ce service public fédéral gérera par la suite les
+avoirs.
+#+end_verse
+
+** TODO Choisir le meilleur compte en banque (taux d'intérêt)          :FLAGGED:
+:PROPERTIES:
+:Effort:   0:30
+:END:
+
+http://www.test-achats.be/argent/comptes-epargne/calculateur/comptes-d-epargne-maitres-achats
+
+* Liabilities
+
+Pour infos sur les meilleurs taux (et refinancement ?), voir :
+
+- FinShop / Wise Consult BVBA / Halle
+- Immotheker
+
+** Solde sur nos comptes
+
+À la date du [2014-11-18 Tue 21:24] :
+
+| Argenta             | BE92 9799 5009 7423 | Fabrice Niessen    | Giro +                                 |    521.50 |
+| Argenta             | BE50 9790 8684 5418 | Niessen - Verhenne | Golden                                 |   1000.00 |
+| Argenta             | BE95 9795 3885 9758 | Fabrice Niessen    | Golden                                 |      0.15 |
+| Argenta             | BE80 9795 3229 4777 | Fabrice Niessen    | e-épargne                              |    100.00 |
+| Rabobank            | BE97 8440 0738 3949 | Fabrice Niessen    | Compte d'épargne                       |  15553.25 |
+| Rabobank            | BE11 8440 0738 3848 | Fabrice Niessen    | Compte à vue                           |      0.00 |
+| Optimabank (Ethias) | BE59 8274 0038 9926 | Fabrice Niessen    | Spaarrekening plus                     |  17418.38 |
+| Optimabank (Ethias) | BE70 8274 0038 9825 | Fabrice Niessen    | Zichtrekening                          |      0.00 |
+| Caisse d'épargne    | 04304429459         | Fabrice Niessen    | Cpt depôt part.                        |    505.16 |
+| Caisse d'épargne    | 00307599427         | Fabrice Niessen    | Livret A                               |      0.00 |
+| Keytrade Bank       | BE96651152445105    | Fabrice Niessen    | Compte a Vue                           |     30.07 |
+| Keytrade Bank       | BE96651152445105    | Nele Verhenne      | Zichtrekening                          |     30.07 |
+| Recordbank          |                     | Nele Verhenne      |                                        |   3200.00 |
+|---------------------+---------------------+--------------------+----------------------------------------+-----------|
+| Impôts              |                     |                    | Avance !                               |   8619.43 |
+|---------------------+---------------------+--------------------+----------------------------------------+-----------|
+| À garder            |                     |                    | si perte de salaire                    | -18985.50 |
+| À garder            |                     |                    | frais divers                           | -12000.00 |
+| À garder            |                     |                    | en cours (Sporty, taxe habit, Sogedim) |  -1702.50 |
+|---------------------+---------------------+--------------------+----------------------------------------+-----------|
+|                     |                     |                    |                                        |   15219.6 |
+#+TBLFM: @>$>=vsum(@1..@-1)::@17$5=-(3075+89.25)*6;%.2f::@18$5=-12000;%.2f::@19$5=-392.50-1005-305;%.2f
+
+6 mois de salaire net... OK.
+
+* Income
+
+** TODO Tegemoetkoming sportkosten (als CM-lid)
+
+*Download* aanvraagformulier terugbetaling inschrijvingsgeld:
+http://www.cm.be/diensten-en-voordelen/vakantie-en-vrije-tijd/sport/
+
+Link:
+https://www.cm.be/media/Aanvraag-terugbetaling-inschrijving-sportvereniging_tcm86-24959.pdf
+
+*OPLETTEN!  De uitbetaling sport voor Bo gebeurt op rekeningnummer van mevrouw
+Verhenne.*
+
+** Argent reçu à la lentefeest de Mar (fête de printemps)
+
+| Reçu par Mar                       | EUR | EUR |
+|------------------------------------+-----+-----|
+| Grootva et Grootmoe                |     | 250 |
+| Mar (bon poescafé)                 |     |  30 |
+|------------------------------------+-----+-----|
+| Christian et Alice                 | 200 |     |
+| Grégory, Lydie-Anne et les enfants | 100 |     |
+| Lydiane et Nicolas                 |  50 |     |
+| Francesco et Evelyne               |  50 |     |
+| Nena                               |  40 |     |
+| Anonyme                            |  20 |     |
+|------------------------------------+-----+-----|
+|                                    | 460 | 280 |
+#+TBLFM: @11$3=vsum(@I..@-I)::@11$2=vsum(@I..@-I)
+
+* Potential income
+
+** MAYB Faire site de comparaison entre LDLC et RueDuCommerce
+
+- FNAC
+- Mediamarkt
+- Eldi
+- Krefel
+
+** MAYB Faire site Fliigle
+
+- Regarder TradeTracker
+
+** MAYB S'inscrire aux paris en ligne sur les courses hippiques
+
+http://www.zeturf.fr/
+
+De 50 à 180 EUR offerts...
+
+** TODO Changer mail de Paypal et vérifier setting pour recevoir notif si paiement GitHub
+
+fni@mygooglest.com?
+
+* Expenses
+
+** Consommation moyenne d'eau
+
+| # personnes |      m3 |
+|-------------+---------|
+|           1 |   37-39 |
+|           2 |   62-66 |
+|           3 |   89-94 |
+|           4 | 108-115 |
+|           5 | 130-137 |
+
+(De Watergroep, 2023-2024)
+
+** Packs Internet - Télévision - Mobile
+
+https://www2.telenet.be/residential/fr/produits/one/configuration
+
+https://www.mesfournisseurs.be/telecom/
+
+*** Packs GSM-TV-Internet Telenet
+
+Voir =Packs-GSM-TV-Internet.xlsx=.
+
+Klik pakketje = 82 EUR (ipv 60 EUR)
+
+Avantage : Internet super-rapide (300 Mbps download à la place de 100 Mbps).
+
+Inconvénient : 22 EUR plus cher !
+
+Pour le téléphone de Sarah, voir :
+
+- https://www.heytelecom.be/fr àpd 7 EUR/mois
+  Ça a l'air pas mal, Hey ! Le fait d'avoir plus de data au fil du temps, c'est
+  pas mal...
+
+- https://mobilevikings.be/fr àpd 10 EUR/mois
+
+* Routines
+
+Regular, recurring tasks and habits that need to be maintained.
+
+** Daily
+
+** Weekly
+
+** Monthly
+
+** Quarterly
+
+** Semiannually
+
+** Yearly
+
+*** TODO Routine / Rembourser à FNI dépenses NVE à partir du compte commun pour l'année 2025
+SCHEDULED: <2026-01-01 Thu +1y>
+
+*À arrêter dès que Nele commence à payer ses consommations à partir de son
+compte privé (MEGA, etc.).*
+
+Lister :
+
+| DE WATERGROEP                |
+| ORANGE (Hey Telecom)         |
+| VERHENNE-HOSTE ERIC  +  LIVA |
+
+Si *l'achat privé a coûté 100 €*, et que cet argent a été prélevé sur le compte
+commun, alors, pour *annuler l'impact de cet achat*, il suffit de :
+- récupérer *100 €* du compte commun sur mon compte personnel, ou
+- verser 50 € de son compte personnel au mien.
+
+*** TODO Routine / Comparer les contrats d'électricité et de gaz en vue de l'achat groupé (Total Energies)
+SCHEDULED: <2026-05-01 Fri +1y>
+
+Consommation : https://my.mega.be/index.php?consumption
+
+https://samensterker.ichoosr.com/samensterker/home
+Inschrijvingsnummer: ENBE2483549
+
+|                     | EAN 541448820059527846 |     | EAN 541448820059527853 |     |       |
+| Date                |          Elektriciteit |     |                    Gaz |     | Jours |
+|---------------------+------------------------+-----+------------------------+-----+-------|
+| [2021-07-30 Fri]    |                    757 | kWh |                  23688 | m3  |     0 |
+| [2021-11-08 Mon]    |                   1234 | kWh |                  23791 | m3  |   101 |
+| [2022-11-24 Thu]    |                   3493 | kWh |                  24670 | m3  |   381 |
+| [2024-05-13 Mon]    |                   6230 | kWh |                  25984 | m3  |   536 |
+| [2024-08-01 Thu]    |                   6659 | kWh |                  26028 | m3  |   691 |
+|---------------------+------------------------+-----+------------------------+-----+-------|
+| Total               |                   5473 | kWh |                   2296 | m3  |  1018 |
+|---------------------+------------------------+-----+------------------------+-----+-------|
+| Total sur 1 an      |                   1962 | kWh |                    823 | m3  |  2.79 |
+| En kWh (gaz pauvre) |                   ^^^^ | ^^^ |                   8411 | kWh |   <<< |
+#+TBLFM: $6=$1-@-1$1::@4$6=0::@10$2=@-1-@-4::@10$4=@-1-@-4::@10$6=@-1$1-@-4$1::@11$2=@-1/$6;%.0f::@11$4=@-1/$6;%.0f::@11$6=@-1/365;%.2f::@12$4=@-1*10.22;%.0f::@12$6=string("<<<")
+
+- Airco (+500 kWh)
+- Elektrische boiler (+3.000 kWh)
+- Elektrische auto + laadpaal (+3.600 kWh)
+- Elektrisch koken (+200 kWh)
+- Warmtepomp (+5.000 kWh)
+
+https://callmepower.be/nl/energie/gids/tarief/prijs-elektriciteit
+
+- https://www.monenergie.be
+- https://vtest.vreg.be
+- https://www.independer.be/fr/comparateur-energie
+
+*** TODO Faire déclaration d'impôts 2025 - Revenus 2024 (Fabrice + Nele !)
+DEADLINE: <2026-06-30 Tue +1y -6w>
+
+**** Conventions préventives de la double imposition                      :mail:
+[2011-06-16 Thu 14:30]
+
+#+begin_verse
+Voici ce que j'ai retenu dans la convention avec l'Italie :
+
+"CONVENTION ENTRE LA BELGIQUE ET L'ITALIE EN VUE
+D'ÉVITER LES DOUBLES IMPOSITIONS ET DE PRÉVENIR LA FRAUDE ET L'ÉVASION
+FISCALES EN MATIÈRE D'IMPÔTS SUR LE REVENU"
+
+On peut y lire ceci :
+
+"Article 6 Revenus immobiliers
+
+1. Les revenus qu'un résident d'un État contractant tire de biens
+immobiliers (y compris les revenus des exploitations agricoles ou
+forestières) situés dans l'autre État contractant, sont imposables
+dans cet autre État.
+..."
+
+donc, un résident belge ("un Etat") tirant des revenus d'un bien
+immobilier en Italie ("l'autre Etat") doit payer des impôts sur ces
+revenus en Italie, pas en Belgique.
+
+(voir http://ccff02.minfin.fgov.be/KMWeb/document.do?method=view&nav=1&id=40b33ae0-74ee-43a6-aef0-70ea768a264c&disableHighlightning=true#findHighlighted,
+voir Italie, texte coordonné, c'est-à-dire le texte avec tous les
+amendements).
+
+Tu devrais jeter un oeil à la convention avec la France.
+#+end_verse
+
+** Inactive
+
